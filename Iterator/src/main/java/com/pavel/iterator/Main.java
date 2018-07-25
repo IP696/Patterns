@@ -16,7 +16,7 @@ public class Main {
     List<Zoo<AnimalItem>> zoos = new ArrayList<Zoo<AnimalItem>>();
 
     Zoo<AnimalItem> herbivoresZoo = new HerbivoresZoo();
-    MammalsZoo mammalsZoo = new MammalsZoo();
+    Zoo<AnimalItem> mammalsZoo = new MammalsZoo();
 
     zoos.add(herbivoresZoo);
     zoos.add(mammalsZoo);
