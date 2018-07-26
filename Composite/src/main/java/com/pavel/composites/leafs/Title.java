@@ -11,7 +11,7 @@ public class Title extends Tag {
   }
 
   public void draw() {
-    System.out.println("*********************** "+ text+" *******************************");
+    System.out.println("*********************** " + text + " *******************************");
   }
 
 }
