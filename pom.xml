@@ -14,6 +14,7 @@
     <module>Observer</module>
     <module>Adapter</module>
     <module>Iterator</module>
+    <module>Composite</module>
   </modules>
 
 
